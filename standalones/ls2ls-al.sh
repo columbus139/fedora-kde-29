@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "ls='ls -al'" >> ~/.bashrc
+echo "alias ls='ls -al'" >> ~/.bashrc
