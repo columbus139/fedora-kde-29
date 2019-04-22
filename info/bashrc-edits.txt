@@ -1,0 +1,4 @@
+Edits to ~/.bashrc:
+
+alias ls='ls -al'
+alias cd..='cd ..'
