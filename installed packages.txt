@@ -1,0 +1,12 @@
+vscodium
+vlc
+telegram-desktop
+terminator
+emacs
+clamtk
+spotify-client
+deluge
+hexchat
+thunderbird
+clementine
+libreoffice
