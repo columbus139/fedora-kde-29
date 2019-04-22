@@ -1,0 +1,17 @@
+dragon
+kontact
+kolourpaint
+kget
+falkon
+konqueror
+kmail
+krdc
+krfb
+ktorrent
+konversation
+juk
+calligra-*
+kaddressbook*
+korganizer
+plasma-discover-*
+kwrite
